@@ -10,7 +10,7 @@ pd.set_option('display.width', 500)
 
 #Soru 1: persona.csv dosyasını okutunuz ve veri seti ile ilgili genel bilgileri gösteriniz.
 
-df = pd.read_csv("datasets/persona.csv")
+df = pd.read_csv("../../pythonProject/Potansiyel-Musteri-Getirisi-Hesaplama/datasets/persona.csv")
 
 
 #Soru 2: Kaç unique SOURCE vardır? Frekansları nedir?
