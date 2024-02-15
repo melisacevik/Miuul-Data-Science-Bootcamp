@@ -29,7 +29,7 @@ pd.set_option('display.float_format', lambda x: '%.5f' % x)
 # Puan Yüzdeleri: 75, 20, 4, 1, <1
 # Yaklaşık Sayısal Karşılıkları: 3458, 922, 184, 46, 6
 
-df = pd.read_csv("datasets/course_reviews.csv")
+df = pd.read_csv("../../Measurement-Problems/datasets/course_reviews.csv")
 df.head()
 df.shape
 
