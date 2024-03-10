@@ -34,6 +34,11 @@ Tavsiye Sistemleri, Association Rule Learning, Content Filtering, Memory-Based C
 - [Armut Association Rule Based Recommender System](https://github.com/melisacevik/Miuul-Data-Science-Bootcamp/blob/master/Case_Study/Week5/ARMUT_ARL_PROJE.py)
 - [Hybrid Recommender System](https://github.com/melisacevik/Recommendation-Systems)
 
+## Week 6:
+Feature Engineering, Outliers, Missing Values, Encoding Scaling, Feature Extraction
+
+- [Diabets](https://github.com/melisacevik/Diabets-Feature-Engineering)
+
 Ödevler ve projeler her hafta için belirtilmiştir. 
 
 Eğer herhangi bir sorunuz veya geri bildiriminiz varsa, çekinmeden iletişime geçebilirsiniz. Teşekkürler! 😊
